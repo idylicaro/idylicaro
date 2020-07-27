@@ -9,3 +9,6 @@
 - :books: I’m currently learning about SOLID and Clean Architecture and Node APIs. Also, I'm learning something about TDD, design patterns, and web development .
 
 - ⚡ I am currently a volunteer participant in a research project involving Unity3D at university!
+
+---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=idylicaro&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/idylicaro/idylicaro)
