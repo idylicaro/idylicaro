@@ -8,9 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idylicaro" alt="idylicaro" /> </p>
 
+- 🎓 **Currently, I'm studying at the Federal University of Sergipe (UFS), the 5th period of the Information Systems course.**
+
 - 👨‍💻 **A bit about me,i really think that learning something is fundamental to continue living my life, so I like studying technology in general, I would like to realize this more early (I think I would have created a lot of fun things). I'm not a genius and I'm not close to that, but I really believe in hard work 📘 (I believe and do it). I ❤️ software engineering as its architectures to code and practices that are interesting, like techniques like TDD or model of solutions to problems to codes like design patterns, I really love it, 🔰 although I still can't understand a lot of things right now (🎌 I need experience so please invite me to help you with any project, I would like)**
 
-- 📚 **I’m currently learning about SOLID and Clean Architecture and Node APIs. Also, I'm learning something about TDD, design patterns and web development .**
+- 📚 **I'm currently learning about docker/deploy/scalability and some design patterns. Also, I'm learning about deep learning.**
 
 - ⚡ **I'm currently participating in three projects, the first is a research project involving web development at (fapitec/seduc) and the second is a scholarship for me to help students that have problems with programming classes at the University and third is a  research project involving  Unity3D where I'm a volunteer by the University**
 
