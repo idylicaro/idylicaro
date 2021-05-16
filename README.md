@@ -35,7 +35,12 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </br>
+  <h3> Statistics </h3>
+  <img src="https://github.com/idylicaro/github-profile-summary-cards/blob/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <!--<img src="https://github.com/idylicaro/github-profile-summary-cards/blob/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" /> -->
+  <img src="https://github.com/idylicaro/github-profile-summary-cards/blob/master/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://github.com/idylicaro/github-profile-summary-cards/blob/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <!--<img src="https://github.com/idylicaro/github-profile-summary-cards/blob/master/profile-summary-card-output/github_dark/4-productive-time.svg" /> -->
 </div>
 
-</br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=idylicaro&count_private=true&show_icons=true&theme=tokyonight" alt="idylicaro" /></p>
