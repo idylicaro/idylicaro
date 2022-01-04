@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idylicaro" alt="idylicaro" /> </p>
 
-- 🎓 **Currently, I'm studying at the Federal University of Sergipe (UFS), the 6th period of the Information Systems course.**
+- 🎓 **Currently, I'm studying at the Federal University of Sergipe (UFS), the 7th period of the Information Systems course.**
 
-- 👨‍💻 **A bit about me,i really think that learning something is fundamental to continue living my life, so I like studying technology in general, I would like to realize this more early (I think I would have created a lot of fun things). I'm not a genius and I'm not close to that, but I really believe in hard work 📘 (I believe and do it). I ❤️ software engineering as its architectures to code and practices that are interesting, like techniques like TDD or model of solutions to problems to codes like design patterns, I really love it, 🔰 although I still can't understand a lot of things right now (🎌 I need experience so please invite me to help you with any project, I would like)**
+- 👨‍💻 **A little about me, since I was a kid I always thought that effort beats talent and I can prove that to myself (no wonder I liked the training episodes of my favorites anime, Naruto, Dragon Ball, HxH.). Since 2018 I have been studying various things when it comes to computer science and software engineering, since my beginning I was mentored a few times by wonderful people ❤️ that I keep the knowledge learned in this journey with great affection, with that taste of wanting more.**
 
-- 📚 **I'm currently learning about docker/deploy/scalability and some design patterns. Also, I'm learning about deep learning.**
+- 📚 **Currently I am learning about: software engineering, database modeling, Next.js, .net(C#), Prisma, NestJs, networks, distributed systems and system security auditing.**
 
-- ⚡ **I'm currently participating in three projects, the first is a research project involving web development at (fapitec/seduc) and the second is a scholarship for me to help students that have problems with programming classes at the University and third is a  research project involving  Unity3D where I'm a volunteer by the University**
+- ⚡ **I'm currently participating in three projects, the first is a research project involving web development at (fapitec/seduc).**
 
 
 </br>
