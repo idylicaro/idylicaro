@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idylicaro" alt="idylicaro" /> </p>
 
-- 🎓 **Currently, I'm backend software enginner at Sensix Agro and I'm studying at the Federal University of Sergipe (UFS), in the 8th period of the Information Systems course.**
+- 🎓 **Currently, I'm studying at the Federal University of Sergipe (UFS), in the 8th period of the Information Systems course.**
+
+- ⚡ **I'm backend software enginner at Sensix Agro.**
 
 - 👨‍💻 **A little about me, since I was a kid I always thought that effort beats talent and I can prove that to myself (no wonder I liked the training episodes of my favorites anime, Naruto, Dragon Ball, HxH.). Since 2018 I have been studying various things when it comes to computer science and software engineering, since my beginning I was mentored a few times by wonderful people ❤️ that I keep the knowledge learned in this journey with great affection, with that taste of wanting more.**
 
@@ -36,6 +38,8 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   </br>
   <h3> Statistics </h3>
   <img src="https://github.com/idylicaro/github-profile-summary-cards/blob/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
