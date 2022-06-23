@@ -8,13 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idylicaro" alt="idylicaro" /> </p>
 
-- 🎓 **Currently, I'm studying at the Federal University of Sergipe (UFS), the 7th period of the Information Systems course.**
+- 🎓 **Currently, I'm backend software enginner at Sensix Agro and I'm studying at the Federal University of Sergipe (UFS),in the 8th period of the Information Systems course.**
 
 - 👨‍💻 **A little about me, since I was a kid I always thought that effort beats talent and I can prove that to myself (no wonder I liked the training episodes of my favorites anime, Naruto, Dragon Ball, HxH.). Since 2018 I have been studying various things when it comes to computer science and software engineering, since my beginning I was mentored a few times by wonderful people ❤️ that I keep the knowledge learned in this journey with great affection, with that taste of wanting more.**
 
-- 📚 **Currently I am learning about: software engineering, database modeling, Next.js, .net(C#), Prisma, NestJs, networks, distributed systems and system security auditing.**
-
-- ⚡ **I'm currently participating in three projects, the first is a research project involving web development at (fapitec/seduc).**
+- 📚 **Currently I am learning about: software engineering, microservices, Golang, infrastructure, observability, monitoring and software maturity.**
 
 
 </br>
