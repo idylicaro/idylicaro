@@ -4,11 +4,11 @@
 <image width="100%" height="240" src='https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'>
 
 <h1 align="center">Hi 👋, I'm Idyl Icaro</h1>
-<h3 align="center">I'm a Information Systems student 💻 in Brazil 🌎 at Federal University of Sergipe 📚</h3>
+<h3 align="center">I'm a Software Developer 💻 in Brazil 🌎📚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idylicaro" alt="idylicaro" /> </p>
 
-- 🎓 **Currently, I'm studying at the Federal University of Sergipe (UFS), in the 8th period of the Information Systems course.**
+- 🎓 **I graduated in Information Systems at Federal University of Sergipe (UFS).**
 
 - ⚡ **I'm backend software enginner at Sensix Agro.**
 
