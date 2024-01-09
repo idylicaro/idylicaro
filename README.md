@@ -14,7 +14,7 @@
 
 - 👨‍💻 **A little about me, since I was a kid I always thought that effort beats talent and I can prove that to myself (no wonder I liked the training episodes of my favorites anime, Naruto, Dragon Ball, HxH.). Since 2018 I have been studying various things when it comes to computer science and software engineering, since my beginning I was mentored a few times by wonderful people ❤️ that I keep the knowledge learned in this journey with great affection, with that taste of wanting more.**
 
-- 📚 **Currently I am learning about: software engineering, microservices, Golang, infrastructure, observability, monitoring and software maturity.**
+- 📚 **Currently I am learning about: software engineering, Nest.js ecosystem, Golang, infrastructure, observability and software maturity.**
 
 
 </br>
